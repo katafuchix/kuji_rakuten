@@ -1,6 +1,6 @@
 # kuji_rakuten
 
-<img width="600" src="https://user-images.githubusercontent.com/6063541/150980332-9f4f431b-7a61-4d89-9d16-8e4e919191a5.png">
+<img width="700" src="https://user-images.githubusercontent.com/6063541/150980332-9f4f431b-7a61-4d89-9d16-8e4e919191a5.png">
 
 
 https://rakucoin.appspot.com/rakuten/kuji/
